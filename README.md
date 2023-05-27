@@ -1,2 +1,3 @@
-# sistema_bancario_desafio_Dio
-Sistema bancário inicial  (saque, deposito, extrato e saldo) 
+# Sistema Bancario: Desafio Dio
+
+Projeto de um sistema bancário inicial com as funções [saque, deposito, extrato e saldo].
